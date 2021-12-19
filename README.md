@@ -1,1 +1,21 @@
-# bemoeizorg-proof-of-work
+----------------------------
+| bemoeizorg-proof-of-work |
+----------------------------
+
+'hoornbrekerstraat kliniek'
+
+
+# bemoeizorg
+https://nl.wikipedia.org/wiki/Bemoeizorg
+
+# slavernij
+https://nl.wikipedia.org/wiki/Slavernij
+
+# poisening
+https://en.wikipedia.org/wiki/Poisoning
+
+# mass murder
+https://en.wikipedia.org/wiki/Mass_murder
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
